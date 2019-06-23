@@ -2,6 +2,7 @@ package com.java.collection;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.PriorityQueue;
+//https://stackoverflow.com/questions/122105/what-is-the-best-way-to-filter-a-java-collection
 
 public class PriorityQueueExec {
 	public static void main(String[] args) {
